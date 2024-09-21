@@ -777,7 +777,7 @@
 /datum/status_effect/stacking/microwave
 	id = "microwaved"
 	tick_interval = 1 SECONDS
-	max_stacks = 5
+	max_stacks = 7
 	stack_decay = 0
 	consumed_on_threshold = FALSE
 	alert_type = /atom/movable/screen/alert/status_effect/microwave
